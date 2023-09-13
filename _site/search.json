@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Quarto_website",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "about: template: jolla image: profile.jpg links: - icon: twitter text: twitter href: https://twitter.com - icon: github text: Github href: https://github.com\n##Doris Wang\nI am an Economist/Data Scientist at the World Bank South Asia Region Water Team. My primary research interests are in development, water-related issues, impact evaluation and data science. My specialties are quantitative analysis, economic and statiscal modeling, geo-spatial processing and programming."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sept 2007 - June 2011"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "About",
+    "section": "Experience",
+    "text": "Experience\nSouth Asian Region, World Bank | Economist/Data Scientist | April 2020 - present\nWater Global Practice, World Bank | Research Associate | Jan 2018 - April 2020\nDevelopment Impact Evaluation (DIME), World Bank | Resarch Assistant | May 2023 - December 2017"
+  }
+]
