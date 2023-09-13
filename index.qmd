@@ -1,7 +1,29 @@
 ---
-title: "Quarto_website"
+about:
+  template: trestles
+  image: doriswang.jpg
+  links:
+    - icon: google
+      text: google scholar
+      href: https://sites.google.com/view/qiaowang/home
+    - icon: github
+      text: github
+      href: https://github.com/doriswang0531
+    - icon: envelope
+      text: mail
+      href: mailto:doris0531@gmail.com
 ---
 
-This is a Quarto website.
+<br>
+<br>
+<br>
+<br>
+**Doris Wang**<br>
+<br>
+<br>
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+
+Economist/Data Scientist<br>
+World Bank<br>
+Washington, DC, USA
