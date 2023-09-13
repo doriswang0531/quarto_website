@@ -1,20 +1,33 @@
 project:
   type: website
-  output-dir: docs
+  render:
+    - "*.qmd"
+    - "*.md"
 
 website:
-  title: "Quarto_website"
+  title: "Doris Wang"
   navbar:
+    background: "#536878"
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+
+      - href: about.qmd
+        text: About
+  page-footer:
+    left: "Copyright 2023, Doris Wang"
+    right:
+      - icon: github
+        href: https://github.com/doriswang0531
+      - icon: google scholar
+        href: https://sites.google.com/view/qiaowang/home
+    background: "#536878"
+
+date-format: "D MMMM YYYY"
 
 format:
   html:
-    theme: cosmo
+    theme: tango
     css: styles.css
     toc: true
-
-
-
+    html-math-method: katex
+    include-in-header:
+      file: header.html
