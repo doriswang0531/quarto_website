@@ -2,23 +2,16 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Quarto_website",
+    "title": "Doris Wang",
     "section": "",
-    "text": "project: type: website\ntitle: “About” image: profile.jpg about: template: jolla links: - icon: twitter text: Twitter href: https://twitter.com # (additional links excluded for brevity)"
+    "text": "Doris Wang  \nEconomist/Data Scientist World Bank Washington, DC, USA"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "about: template: jolla image: profile.jpg links: - icon: twitter text: twitter href: https://twitter.com - icon: github text: Github href: https://github.com"
-  },
-  {
-    "objectID": "about.html#doris-wang",
-    "href": "about.html#doris-wang",
-    "title": "About",
-    "section": "Doris Wang",
-    "text": "Doris Wang\nI am an Economist/Data Scientist at the World Bank South Asia Region Water Team. My primary research interests are in development, water-related issues, impact evaluation and data science. My specialties are quantitative analysis, economic and statiscal modeling, geo-spatial processing and programming."
+    "text": "about: template: jolla image: profile.jpg\nI am an Economist/Data Scientist at the World Bank South Asia Region Water Team. My primary research interests are in development, water-related issues, impact evaluation and data science. My specialties are quantitative analysis, economic and statiscal modeling, geo-spatial processing and programming."
   },
   {
     "objectID": "about.html#education",
@@ -33,12 +26,5 @@
     "title": "About",
     "section": "Experience",
     "text": "Experience\nSouth Asian Region, World Bank | Economist/Data Scientist | April 2020 - present\nWater Global Practice, World Bank | Research Associate | Jan 2018 - April 2020\nDevelopment Impact Evaluation (DIME), World Bank | Resarch Assistant | May 2013 - December 2017"
-  },
-  {
-    "objectID": "index.html#about-this-blog",
-    "href": "index.html#about-this-blog",
-    "title": "Quarto_website",
-    "section": "About this blog",
-    "text": "About this blog\nThis is the contents of the about page for my blog."
   }
 ]
